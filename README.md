@@ -1,2 +1,2 @@
 # Test
-link
+print "bybyby"
